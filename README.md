@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello, I'm Pulkit Shringi from Kota, Rajasthan, currently pursuing my B.Tech degree.<br>• I am a Front end Developer and a C++ Programmer :)<br><br>🧑🏻‍💻 Tech Stack :<br>🔹 HTML5, CSS, JavaScript <br>🔹 C++ , C , Python <br>🔹Bootstrap , Notion<br>🔹 Git , Github<br>All my projects are available here : https://github.com/pulkitshringi02?tab=repositories<br><br>📚 Learning & Growth :<br>I am currently learning the fundamentals of backend development, and I intend to combine my front-end and backend skills to create web experiences that are even more impactful while also developing innovative solutions in the field of software development.
-
+Hello, I'm Pulkit Shringi from Kota, Rajasthan, currently pursuing my B.Tech degree.<br>• I am a Front end Developer and a C++ Programmer :)<br><br>🧑🏻‍💻 Tech Stack :<br>🔹 HTML5, CSS, JavaScript <br>🔹 C++ , C , Python <br>🔹Bootstrap , Notion<br>🔹 Git , Github<br><br>📚 Learning & Growth :<br>I am currently learning the fundamentals of backend development, and I intend to combine my front-end and backend skills to create web experiences that are even more impactful while also developing innovative solutions in the field of software development.<br><br>
+• All my projects are available <a href="https://github.com/pulkitshringi02?tab=repositories">here</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitshringi) 
