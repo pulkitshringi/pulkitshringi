@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 ﹎
 <br>
-Hello, I'm Pulkit Shringi from Kota, currently pursuing my B.Tech degree.<br>• I am a Front end Developer and a C++ Programmer :)<br><br>🧑🏻‍💻 Tech Stack :<br>🔹 HTML5, CSS, JavaScript <br>🔹 C++ , C , Python <br>🔹Bootstrap , Notion<br>🔹 Git , Github<br><br>📚 Learning & Growth :<br>I am currently learning the fundamentals of backend development, and I intend to combine my front-end and backend skills to create web experiences that are even more impactful while also developing innovative solutions in the field of software development.<br><br>
+Hello, I'm Pulkit Shringi from Kota, currently pursuing my B.Tech degree.<br>• I am a Front end Developer and a C++ Programmer :)<br><br>🧑🏻‍💻 Tech Stack :<br>🔹 HTML5, CSS, JavaScript <br>🔹 C++ , C , Python <br>🔹Bootstrap , Notion<br>🔹 Git , Github<br><br><br>📚 Learning & Growth :<br>I am currently learning the fundamentals of backend development, and I intend to combine my front-end and backend skills to create web experiences that are even more impactful while also developing innovative solutions in the field of software development.<br><br>
 • All my projects are available <a href="https://github.com/pulkitshringi02?tab=repositories">here</a>
 
 ## 🌐 Socials:
