@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/HPcC8xM/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)](https://rishavchanda.io)
 # 💫 About Me:
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 ﹎
