@@ -56,6 +56,3 @@ Hello, I’m Pulkit Shringi from Kota, currently pursuing a B.Tech in Computer S
 [![](https://visitcount.itsvg.in/api?id=pulkitshringi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-This version removes unnecessary buzzwords, includes factual experiences, and keeps it professional.
-You can copy this content into your README file to keep it updated!
