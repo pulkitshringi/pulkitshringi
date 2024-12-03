@@ -1,8 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"><br>
-Hello :), I’m Pulkit Shringi from Kota, currently pursuing a B.Tech in Computer Science Engineering. <br><br> 🔹 I’m a Full Stack Developer with a passion for building efficient and user-friendly web applications.<br>
-🔹 I enjoy tackling real-world problems and collaborating on projects that make a meaningful impact.<br>
-🔹 Right now, I’m focused on strengthening my backend development skills, improving DSA and aptitude, and diving into cloud technologies to broaden my expertise.
+Hello, I’m Pulkit Shringi from Kota, currently pursuing a B.Tech in Computer Science Engineering. <br>🔹 I’m a Full Stack Developer with a passion for building efficient and user-friendly web applications :)<br><br>
 
 ### 🧑🏻‍💻 My Experience:
 - **Internship at C-DAC**:  
